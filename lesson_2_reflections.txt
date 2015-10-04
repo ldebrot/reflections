@@ -6,4 +6,4 @@ Differential and the ability to decide which part of the working directory is tr
 
 How can you use the staging area to make sure you have one commit per logical change?
 
-nothing to commit, working directory clean
+How do the diagrams help you visualize the branch structure?
